@@ -1,3 +1,9 @@
+/**
+ * Ejercicio: UD1A6- Intellij + Github
+ * @author Pau Ateca
+ * @since 28/10/2021
+ */
+
 import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
 
